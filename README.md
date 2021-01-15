@@ -60,10 +60,10 @@ This is a standalone program for Windows. We just download the program and run i
 2. Check your register email to activate your account
 3. Run the program
 4. Enter information
-– Enter your email, password
-– Enter Tiktok links: video, hashtag, users URLs
-– Click “Start Download” button
-[https://etuannv.com/wp-content/uploads/2020/05/run-downloader.png](https://etuannv.com/wp-content/uploads/2020/05/run-downloader.png)
+* Enter your email, password
+* Enter Tiktok links: video, hashtag, users URLs
+* Click “Start Download” button
+<img src="run-downloader.png" alt="product gui" width="800px">
 
 
 <!-- ROADMAP -->
