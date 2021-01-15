@@ -42,8 +42,7 @@ This is a standalone program for Windows. We just download the program and run i
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* This is only for Windows machine
+* A Windows machine
   
 
 ### Download
