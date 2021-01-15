@@ -1,0 +1,11 @@
+Jan 12, 2021 - Version 2.0
+- Program support GUI
+- Can download video from users
+- Can download video from hashtags (limit 140 videos, Tiktok does not allow to load more videos from a hashtags
+- Can download video from video urls
+- Can monitor to download new video
+- Download video without watermark is temporarily unavailable
+
+
+Dec 08, 2020 - Version 1
+- Download all videos from an user url (without watermark)
