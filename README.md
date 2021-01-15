@@ -27,8 +27,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<a href="https://member.99automate.com">
+    <img src="run-downloader.png" alt="product gui" width="800px">
+  </a>
 
-[product-screenshot]
 
 Tiktok Downloader is one program that provided by 99automate. It allows to mass download videos from Tiktok
 
