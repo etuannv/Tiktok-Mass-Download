@@ -6,7 +6,7 @@
     <img src="99automate-logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">99automate - Tiktok Downloader</h3>
+  <h3 align="center">Tiktok Downloader | 99automate</h3>
 
   <p align="center">
     Tiktok Downloader - A program from 99automate.com
