@@ -9,7 +9,7 @@
   <h3 align="center">99automate - Tiktok Downloader</h3>
 
   <p align="center">
-    Tiktok Downloader is one of program from 99automate.com
+    Tiktok Downloader - A program from 99automate.com
     <br />
     <a href="https://github.com/etuannv/Tiktok-Mass-Download"><strong>Explore the docs »</strong></a>
     <br />
