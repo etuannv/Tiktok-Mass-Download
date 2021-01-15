@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://member.99automate.com">
-    <img src="99automate-logo.png" alt="Logo" width="80" height="80">
+    <img src="99automate-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">99automate - Tiktok Downloader</h3>
