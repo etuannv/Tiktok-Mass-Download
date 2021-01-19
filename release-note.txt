@@ -1,3 +1,7 @@
+Jan 12, 2021 - Version 2.1
+- Can download wihthout watermark again
+- Can auto download chromedriver
+- Can auto update lastest chromedriver
 Jan 12, 2021 - Version 2.0
 - Program support GUI
 - Can download video from users
