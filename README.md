@@ -47,7 +47,7 @@ This is a standalone program for Windows. We just download the program and run i
 
 ### Download
 
-1. Download the program at [https://member.99automate.com/static/downloads/tiktok-downloader-windows.zip](https://member.99automate.com/static/downloads/tiktok-downloader-windows.zip) or this repository
+1. Download the program at [https://tinyurl.com/tiktok-mass-download](https://tinyurl.com/tiktok-mass-download) or this repository
 2. Extract the zip file
 3. Click to run the program
 
